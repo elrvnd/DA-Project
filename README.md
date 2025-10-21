@@ -6,14 +6,14 @@
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 This project aims to analyze **multi-country retail performance** to understand revenue trends, store efficiency, and product profitability.  
 The main goal is to **build actionable KPIs** and **derive business insights** that support management decisions regarding store strategy, product focus, and sales optimization.
 
 ---
 
-## 🧱 Data Preparation
+## Data Preparation
 
 The dataset was modeled using a **star schema**, consisting of:
 
@@ -28,7 +28,7 @@ All sales values were standardized to **USD** for consistent financial compariso
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Overall Business Metrics
 | Metric | Value |
@@ -42,11 +42,11 @@ All sales values were standardized to **USD** for consistent financial compariso
 | Average Items per Order (AIPO) | **7.51** |
 | Average Order Value (AOV) | **$2,185** |
 
-📅 *Date Range:* 2016-01-01 → 2021-02-20  
+*Date Range:* 2016-01-01 → 2021-02-20  
 
 ---
 
-## 📈 KPI Highlights
+## KPI Highlights
 
 ### 🧾 Yearly Revenue Growth (YoY)
 | Year | Total Revenue (USD) | YoY Growth % |
@@ -58,12 +58,12 @@ All sales values were standardized to **USD** for consistent financial compariso
 | 2020 | 9.49M | **–49.1%** |
 | 2021 | 1.08M | **–88.6%** |
 
-🟢 **Insight:** Strong growth until 2019, followed by sharp decline post-2020, likely due to pandemic-related operational constraints.  
-📊 *Recommendation:* Reassess online and physical store strategies to recover post-pandemic sales volume.
+**Insight:** Strong growth until 2019, followed by sharp decline post-2020, likely due to pandemic-related operational constraints.  
+*Recommendation:* Reassess online and physical store strategies to recover post-pandemic sales volume.
 
 ---
 
-### 🛒 AOV and AIPO Trend
+### AOV and AIPO Trend
 | Year | Average Order Value (USD) | Avg Items per Order |
 |------|----------------------------|----------------------|
 | 2016 | 2,525.57 | 7.6 |
@@ -73,12 +73,12 @@ All sales values were standardized to **USD** for consistent financial compariso
 | 2020 | 2,047.77 | 7.44 |
 | 2021 | 2,170.27 | 7.62 |
 
-📊 *Insight:* Average order value (AOV) shows gradual decline from 2016–2020, indicating possible price pressure or smaller basket sizes.  
-💡 *Recommendation:* Revisit product bundling and pricing strategies to increase AOV.
+*Insight:* Average order value (AOV) shows gradual decline from 2016–2020, indicating possible price pressure or smaller basket sizes.  
+*Recommendation:* Revisit product bundling and pricing strategies to increase AOV.
 
 ---
 
-### 🏬 Store Performance and Efficiency
+### Store Performance and Efficiency
 
 #### Store Type Breakdown
 | Store Type | Total Revenue (USD) | Total Profit (USD) | Profit Margin (%) |
@@ -88,16 +88,16 @@ All sales values were standardized to **USD** for consistent financial compariso
 | Online | 11.67M | 6.83M | 58.52 |
 | Small Physical | 2.35M | 1.38M | 58.80 |
 
-🟢 *Insight:*  
+*Insight:*  
 Medium-sized physical stores achieved the **best overall efficiency** (balanced cost-to-revenue ratio).  
 Online channel remains profitable but needs growth revitalization post 2020.
 
-💡 *Recommendation:*  
+*Recommendation:*  
 Prioritize investment in **medium-size stores** for expansion, and **revamp online marketing** to boost digital channel revenue.
 
 ---
 
-### 🌍 Regional Performance (Top 5 by Profit Margin)
+### Regional Performance (Top 5 by Profit Margin)
 | Country | Total Revenue | Profit Margin (%) |
 |----------|----------------|-------------------|
 | Australia | 1.51M | **59.23** |
@@ -106,27 +106,27 @@ Prioritize investment in **medium-size stores** for expansion, and **revamp onli
 | Germany | 4.82M | 58.80 |
 | Italy | 2.33M | 58.72 |
 
-📊 *Insight:*  
+*Insight:*  
 European markets like **Australia, France, and Netherlands** deliver high margins despite lower sales volume.  
 
-💡 *Recommendation:*  
+*Recommendation:*  
 Increase **sales campaigns and product availability** in these high-margin regions.
 
 ---
 
 ## 💬 Business Summary
 
-✅ **What’s working:**  
+**What’s working:**  
 - Profit margin is consistently high (~58%), indicating cost efficiency.  
 - Medium-sized physical stores drive stable profitability.  
 - Certain European markets offer strong margin potential.
 
-⚠️ **What needs attention:**  
+**What needs attention:**  
 - Sharp post-2020 revenue drop due to external disruptions (likely pandemic).  
 - Online sales channel underperforming in growth contribution.  
 - Average Order Value declined ~20% from 2016 to 2020.
 
-💡 **Suggested Actions:**  
+**Suggested Actions:**  
 1. **Reinforce digital strategy:** improve online customer engagement and cross-selling.  
 2. **Invest in mid-sized stores:** highest return per square meter.  
 3. **Revise product pricing:** mitigate AOV decline and maintain premium perception.  
@@ -134,7 +134,7 @@ Increase **sales campaigns and product availability** in these high-margin regio
 
 ---
 
-## 🧩 Files in This Repository
+## Files in This Repository
 | File | Description |
 |------|--------------|
 | `KPI_queries.sql` | SQL queries for KPI calculations |
@@ -145,9 +145,9 @@ Increase **sales campaigns and product availability** in these high-margin regio
 
 ---
 
-## 🧠 Key Takeaway
+## Key Takeaway
 > This project demonstrates end-to-end analytical thinking from data modeling to business insights, turning retail data into actionable recommendations for strategic decision-making.
 
 ---
 
-### 🔗 Links
+### Links
