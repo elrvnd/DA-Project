@@ -1,6 +1,6 @@
 /*====================================================
 Data Overview
-Check all tables after importing raw data using SQL Wizard
+Check all tables after having raw data imported using SQL Wizard
 ====================================================*/
 
 -- Table 1: raw_customers
