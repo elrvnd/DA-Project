@@ -1,0 +1,9 @@
+### Data Import Process
+
+Due to multiple delimiters in the CSV (mix of commas, semicolons, and quotes),  
+data was imported using **SQL Server Import Wizard** instead of manual insert by `BULK INSERT`.
+
+Steps:
+1. Used “Flat File Import Wizard” in SSMS.
+2. Checked delimiters and text qualifiers (`" "`).
+3. Validated data types and null handling post-import.
