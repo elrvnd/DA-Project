@@ -22,7 +22,6 @@ The objective is to identify which segments and regions contribute most to overa
 **Insight:**  
 The company maintained a strong and consistent profit margin (~59%) across six years. Despite order volume fluctuations in 2020–2021, the average order value remained stable, suggesting resilient customer demand.
 
-<!-- insert chart here: Yearly Sales and Profit Trend -->
 
 ---
 
@@ -38,7 +37,6 @@ The company maintained a strong and consistent profit margin (~59%) across six y
 **Insight:**  
 Revenue concentration is highest in the 65+ age group and in the U.S. region. These customers form the backbone of profitability and represent the most reliable base for retention and upsell strategies.
 
-<!-- insert chart here: Revenue by Customer Country -->
 
 ---
 
@@ -46,8 +44,8 @@ Revenue concentration is highest in the 65+ age group and in the U.S. region. Th
 
 | KPI | Finding |
 |-----|----------|
-| **Top Category by Profit** | Computers — USD 11.64M |
-| **Top Subcategory by Profit** | Desktops — USD 5.83M |
+| **Top Category by Profit** | Computers -> USD 11.64M |
+| **Top Subcategory by Profit** | Desktops -> USD 5.83M |
 | **Most Profitable Brands** | Adventure Works, Contoso, WW Importers |
 | **Average Unit Price** | USD 356.83 |
 | **Average Unit Cost** | USD 147.66 |
@@ -55,9 +53,8 @@ Revenue concentration is highest in the 65+ age group and in the U.S. region. Th
 
 **Insight:**  
 The *Computers and Electronics* segment drives the majority of profit, supported by higher price-to-cost ratios.  
-In contrast, lower-priced categories (Games, Audio) contribute more to transaction volume than profitability — indicating an opportunity for bundling or cross-selling.
+In contrast, lower-priced categories (Games, Audio) contribute more to transaction volume than profitability.
 
-<!-- insert chart here: Top Product Categories by Profit -->
 
 ---
 
@@ -74,7 +71,6 @@ In contrast, lower-priced categories (Games, Audio) contribute more to transacti
 **Insight:**  
 The U.S. remains the top-performing market, while the **Online channel shows nearly identical profitability**, highlighting strong operational efficiency and potential scalability in digital sales.
 
-<!-- insert chart here: Regional Profit Comparison -->
 
 ---
 
@@ -101,7 +97,7 @@ The U.S. remains the top-performing market, while the **Online channel shows nea
 3. Created analytical views (`gold_`) for fact and dimension tables  
 4. Joined across `customers`, `products`, `stores`, and `sales` to extract insights  
 
-<!-- insert chart here: Power BI Dashboard Screenshot -->
+![Dashboard Preview](power_bi/images/page_1_business_overview.png)
 
 ---
 
