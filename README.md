@@ -97,7 +97,7 @@ The U.S. remains the top-performing market, while the **Online channel shows nea
 3. Created analytical views (`gold_`) for fact and dimension tables  
 4. Joined across `customers`, `products`, `stores`, and `sales` to extract insights  
 
-![Dashboard Preview](power_bi/images/page_1_business_overview.png)
+![Dashboard Preview](power bi/images/page 1_business overview.png)
 
 ---
 
