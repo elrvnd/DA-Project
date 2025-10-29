@@ -98,7 +98,6 @@ The U.S. remains the top-performing market, while the **Online channel shows nea
 4. Joined across `customers`, `products`, `stores`, and `sales` to extract insights  
 
 ![Dashboard Preview]([power bi/images/page 1_business overview.png](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%201_business%20overview.png))
-![Dashboard Preview]()
 
 ---
 
