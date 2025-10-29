@@ -83,7 +83,19 @@ The U.S. remains the top-performing market, while the **Online channel shows nea
 | **Channel Focus** | Online sales are as profitable as physical stores. | Expand digital marketing and e-commerce infrastructure. |
 | **Regional Focus** | The U.S. dominates revenue generation. | Prioritize the U.S. and replicate its model for international scaling. |
 
+
+## Power BI Dashboard Preview
+
+| Page 1: Business Overview | Page 2: Customer and Product Insights |
+|---------------------------|-------------------------------------|
+| ![Business Overview](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%201_business%20overview.png) | ![Customer and Product Insights](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%202_customer%20and%20product%20insights.png) |
+
+| Page 3: Regional and Store Performance | Page 4: Customer and Market Analysis |
+|---------------------------------------|-------------------------------------|
+| ![Regional and Store Performance](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%203_regional%20and%20store%20performance.png) | ![Customer and Market Analysis](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%204_customer%20and%20market%20analysis.png) |
+
 ---
+
 
 ## 6. Technical Overview
 
@@ -96,8 +108,6 @@ The U.S. remains the top-performing market, while the **Online channel shows nea
 2. Conducted quality checks and cleaned datasets (`raw_ → clean_`)  
 3. Created analytical views (`gold_`) for fact and dimension tables  
 4. Joined across `customers`, `products`, `stores`, and `sales` to extract insights  
-
-![Dashboard Preview]([power bi/images/page 1_business overview.png](https://github.com/elrvnd/DA-Project/blob/e5f674dfde6419e26932cb1af8cb8d02961b26b1/power%20bi/images/page%201_business%20overview.png))
 
 ---
 
