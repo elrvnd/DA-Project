@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis (2016–2021)
+# Retail Sales Data Analysis (2016-2021)
 
 ## Overview
 This project analyzes six years of global retail transactions to uncover key performance drivers in customer behavior, product profitability, and store performance.  
